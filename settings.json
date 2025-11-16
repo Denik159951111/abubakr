@@ -1,7 +1,7 @@
 {
   "bot-account": {
     "username": "Mister_penis",
-    "password": "123123123",
+    "password": "",
     "type": "microsoft"
   },
 
@@ -21,7 +21,7 @@
   "utils": {
     "auto-auth": {
       "enabled": false,
-      "password": "12345678"
+      "password": ""
     },
 
     "anti-afk": {
